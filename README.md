@@ -1,7 +1,7 @@
 # GameMaker AI Agent 🎮 
 
 <div align="center">
-  <img src="assets/icon.svg" width="200" height="200">
+  <img src="assets/icon.svg" width="200" height="200" alt="GameMaker AI Logo">
 </div>
 
 A local-first game development environment powered by AI collaboration. Watch as two AI agents work together to create, refine, and evolve games based on your descriptions.
@@ -136,8 +136,8 @@ Each version includes:
 
 ## 🛟 Need Help?
 
-1. Check the [Issues](https://github.com/yourusername/gamemaker-ai-agent/issues) page
-2. Read through [Discussions](https://github.com/yourusername/gamemaker-ai-agent/discussions)
+1. Check the [Issues](https://github.com/Shivp1413/gamemaker-ai-agent/issues) page
+2. Read through [Discussions](https://github.com/Shivp1413/gamemaker-ai-agent/discussions)
 3. Start a new discussion if you're stuck
 
 ## 📈 Future Plans
@@ -156,4 +156,3 @@ MIT License - see LICENSE file
 ---
 
 **Note**: This is an experimental project under active development. Results may vary, and the AI agents might occasionally need guidance or restart.
-
