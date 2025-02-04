@@ -1,7 +1,7 @@
 # GameMaker AI Agent 🎮 
 
 <div align="center">
-  <img src="assets/icon.svg" width="200" height="200" alt="GameMaker AI Logo">
+  <img src="assets/icon.svg" width="600" height="600" alt="GameMaker AI Logo">
 </div>
 
 A local-first game development environment powered by AI collaboration. Watch as two AI agents work together to create, refine, and evolve games based on your descriptions.
