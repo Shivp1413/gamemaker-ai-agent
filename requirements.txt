@@ -1,0 +1,24 @@
+# Core dependencies
+streamlit==1.32.0
+langchain==0.1.11
+langchain-community==0.0.24
+ollama==0.1.6
+
+# Threading and async
+asyncio==3.4.3
+aiohttp==3.9.3
+
+# Time handling
+python-dateutil==2.8.2
+pytz==2024.1
+
+# UI enhancements
+streamlit-autorefresh==1.0.1
+
+# Utilities
+python-dotenv==1.0.1
+requests==2.31.0
+typing-extensions==4.9.0
+
+# Optional performance improvements
+watchdog==4.0.0  # Recommended for Streamlit file change detection
